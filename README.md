@@ -2,19 +2,6 @@
 
 A console-based Java application simulating a basic e-commerce system, developed as part of the **Fawry Rise Internship Challenge**.
 
----
-
-## 🎯 Key Features
-
-* 🛒 **Cart Management** – Add/remove products to cart with quantity tracking.
-* 💰 **Balance & Payment** – Validate balance before checkout and debit accordingly.
-* 📦 **Shipping Integration** – Adapter-based integration with shipping companies.
-* 📢 **Notification System** – Observer pattern to notify via console or logs.
-* 📆 **Product Expiry Handling** – Products can be expirable or non-expirable.
-* ✅ **Robust Exception Handling** – Custom exceptions for cart, stock, expiry, and balance issues.
-
----
-
 ## 🧠 System Design Overview
 
 The system follows Object-Oriented Programming principles and design patterns:
