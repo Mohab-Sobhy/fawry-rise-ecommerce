@@ -52,15 +52,6 @@ java -cp out com.mohab.ecommerce.Main
 
 ![Sample Output](https://github.com/Mohab-Sobhy/fawry-rise-ecommerce/raw/main/Screenshot/screenshot.png)
 
----
-
-## 👤 Author
-
-**Mohab Sobhy**
-[GitHub Profile](https://github.com/Mohab-Sobhy)
-
----
-
 ## 📜 License
 
 This project is licensed for educational and internship purposes.
