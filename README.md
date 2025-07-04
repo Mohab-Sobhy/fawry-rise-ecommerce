@@ -50,7 +50,7 @@ java -cp out com.mohab.ecommerce.Main
 
 ## 🧾 Sample Output
 
-> Will be shown here if needed — like a receipt or console log
+![Sample Output](https://github.com/Mohab-Sobhy/fawry-rise-ecommerce/raw/main/Screenshot/screenshot.png)
 
 ---
 
