@@ -40,7 +40,7 @@ com.mohab.ecommerce
 
 ```bash
 # Compile
-javac -d out src/com/mohab/ecommerce/Main.java
+javac --release 17 -d out $(find src -name "*.java")
 
 # Run
 java -cp out com.mohab.ecommerce.Main
